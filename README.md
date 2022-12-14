@@ -10,7 +10,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 🌍 I'm based out of **New York City**
 
-- 🔭 I’m currently **working on a tax projection applications for individuals**
+- 🔭 I’m currently **working on a tax projection application for individuals**
 
 - 🌱 I have worked with many different full stack technologies, **see my specific skills below**
 
