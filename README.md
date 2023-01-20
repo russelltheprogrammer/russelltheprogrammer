@@ -14,9 +14,9 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 🌱 I have worked with many different full stack technologies, **see my specific skills below**
 
-- 👯 I’m looking to collaborate on **tax accounting applications**
+- 👯 I’m looking to collaborate on **tax accounting applications** or **other interesting projects**
 
-- 💬 Ask me about **background in tax accounting**
+- 💬 Ask me about my **background in tax accounting**
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
