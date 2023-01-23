@@ -20,7 +20,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
-- 📫 See my contact information below or find my email righ away, **russelltheprogrammer@gmail.com**
+- 📫 See my contact information below or find my email right away, **russelltheprogrammer@gmail.com**
 
 
 ### Connect with me
