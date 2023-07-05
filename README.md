@@ -25,7 +25,8 @@ refining my knowledge by working with other passionate individuals who have an i
 ### Projects
 
 <a href="https://taxprojection.com"/>TaxProjection.com</a>
-<a href="https://monteithtaxcpa.com/>MonteithTaxCPA.com</a>
+
+<a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
 ### Connect with me
 
