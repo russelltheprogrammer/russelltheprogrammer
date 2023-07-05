@@ -16,12 +16,16 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 👯 I’m looking to collaborate on **tax accounting applications** or **other interesting projects**
 
-- 💬 Ask me about my **background in tax accounting** or **the latest tech topic**
+- 💬 Ask me about my **the latest tech topic**
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
 - 📫 See my contact information below or find my email right away, **russelltheprogrammer@gmail.com**
 
+### Projects
+
+<a href="https://taxprojection.com"/>TaxProjection.com</a>
+<a href="https://monteithtaxcpa.com/>MonteithTaxCPA.com</a>
 
 ### Connect with me
 
