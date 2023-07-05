@@ -24,9 +24,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 ### Projects
 
-+ <a href="https://taxprojection.com"/>
-    <img align="left" alt="gmail" src="https://www.monteithtaxcpa.com/navbarlogowordmark.png" />        
-  </a>https://www.monteithtaxcpa.com/navbarlogowordmark.png
++ <a href="https://taxprojection.com"/>TaxProjection.com</a>
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
