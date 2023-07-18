@@ -16,7 +16,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 👯 I’m looking to collaborate on **tax accounting applications** or **other interesting projects**
 
-- 💬 Ask me about my **the latest tech topic**
+- 💬 Ask me about **the latest tech topic**
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
