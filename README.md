@@ -66,16 +66,3 @@ refining my knowledge by working with other passionate individuals who have an i
 
 </br>
 </br>
-
-### 📈 Github Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=russelltheprogrammer" /></td>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russelltheprogrammer"/></td>
-    </tr>   
-  </table>
-</center>
-
-
