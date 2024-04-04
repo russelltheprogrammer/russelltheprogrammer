@@ -8,9 +8,9 @@ software engineer by paying attention to the details, investigating bugs, and wr
 refining my knowledge by working with other passionate individuals who have an interest in technology.</p>
 
 
-- 🌍 I'm based out of **New York City**
+- 🌎 I'm based out of **New York City**
 
-- 🔭 I’m currently **working on a tax projection application for individuals**
+- 🔭 I’m currently **working on a tax projection application for individuals**, among other **fun projects**
 
 - 🌱 I have worked with many different full stack technologies, **see my specific skills below**
 
@@ -20,9 +20,11 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
+
 - 📫 See my contact information below or find my email right away, **russelltheprogrammer@gmail.com**
 
-- Check out my <a href="https://gitlab.com/russelltheprogrammer">GitLab</a> 
+
+- 💻 Check out my <a href="https://gitlab.com/russelltheprogrammer">GitLab</a> 
 
 ### Projects
 
