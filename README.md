@@ -66,7 +66,7 @@ refining my knowledge by working with other passionate individuals who have an i
 <img align="left" alt="Material UI" width="30px" src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" />
 <img align="left" alt="Shadcn" width="30px" src="" />
 <img align="left" alt="jQuery" width="30px" src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" />
-<img align="left" alt="Auth0" width="30px" src="" />
+<img align="left" alt="Auth0" width="30px" src="https://avatars.githubusercontent.com/u/2824157?s=48&v=4" />
 <img align="left" alt="GA" width="30px" src="" />
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
