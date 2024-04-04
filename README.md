@@ -20,17 +20,15 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - ⚡ I love to **watch movies, exercise, and play board games**
 
-
 - 📫 See my contact information below or find my email right away, **russelltheprogrammer@gmail.com**
-
-
-- 💻 Check out my <a href="https://gitlab.com/russelltheprogrammer">GitLab</a> 
 
 ### Projects
 
 + <a href="https://taxprojection.com"/>TaxProjection.com</a>
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
+
++ <a href="https://gitlab.com/russelltheprogrammer">Russell's GitLab</a> 
 
 ### Connect with me
 
