@@ -22,7 +22,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 📫 See my contact information below or find my email right away, **russelltheprogrammer@gmail.com**
 
-- Check out my GitLab <a href="https://gitlab.com/russelltheprogrammer">Russell's GitLab</a>
+- Check out my <a href="https://gitlab.com/russelltheprogrammer">GitLab</a> 
 
 ### Projects
 
