@@ -14,7 +14,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 - 🌱 I have worked with many different full stack technologies, **see my specific skills below**
 
-- 👯 I’m looking to collaborate on **tax accounting applications** or **other interesting projects**
+- 👯 I’m looking to collaborate on **tax accounting applications** and **other interesting projects**
 
 - 💬 Ask me about **the latest tech topic**
 
