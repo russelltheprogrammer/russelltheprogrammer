@@ -1,6 +1,6 @@
 # Hi 👋 I'm Russell Monteith!<div align = 'right'>![](https://komarev.com/ghpvc/?username=russelltheprogrammer&color=yellow)</div>
 
-## I'm a Full Stack Web Developer, Technology Enthusiast, and Tax Expert!
+## I'm a Full Stack Software Engineer, Technology Enthusiast, and Tax Expert!
 
 <p>I have a passion for creating and solving complex problems. I'm always trying to improve my skillset by learning
 new technologies, better coding practices, and interacting with seasoned professionals. I use my background in accounting to my benefit as a 
