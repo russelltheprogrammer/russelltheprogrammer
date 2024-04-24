@@ -28,6 +28,8 @@ refining my knowledge by working with other passionate individuals who have an i
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
++ A Video Game Website for an Indie Developer (Coming Soon!)
+
 + <a href="https://gitlab.com/russelltheprogrammer">Russell's GitLab</a> 
 
 ### Connect with me
