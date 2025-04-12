@@ -26,7 +26,9 @@ refining my knowledge by working with other passionate individuals who have an i
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
-+ <a href="https://gitlab.com/russelltheprogrammer">Russell's GitLab</a> 
++ <a href="[https://gitlab.com/russelltheprogrammer"](https://www.drifters.io/)>Various Projects With the CodeDrifters, a technology business</a>
+
++ A lot of work projects are not included because a separate GitHub account is used
 
 ### Connect with me
 
@@ -35,12 +37,6 @@ refining my knowledge by working with other passionate individuals who have an i
 </a>
 <a href="https://www.linkedin.com/in/russell-monteith-cpa-0a43975a/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/RussellTheProg1" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/russelltheprogr1?hr_r=1" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 </br>
 </br>
@@ -68,6 +64,8 @@ refining my knowledge by working with other passionate individuals who have an i
 <img align="left" alt="GA" width="30px" src="https://avatars.githubusercontent.com/u/4327788?s=48&v=4" />
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<igm align="left" alt="Robocorp" width="30px" src="https://avatars.githubusercontent.com/u/54288445" />
 
 </br>
 </br>
