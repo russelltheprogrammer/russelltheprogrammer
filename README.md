@@ -26,7 +26,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
-+ <a href="[https://gitlab.com/russelltheprogrammer"](https://www.drifters.io/)>Various Projects With the CodeDrifters, a technology business</a>
++ <a href="https://www.drifters.io/">Various Projects With the CodeDrifters, a technology business</a>
 
 + A lot of work projects are not included because a separate GitHub account is used
 
