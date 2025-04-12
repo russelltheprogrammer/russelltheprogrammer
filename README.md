@@ -26,7 +26,7 @@ refining my knowledge by working with other passionate individuals who have an i
 
 + <a href="https://monteithtaxcpa.com"/>MonteithTaxCPA.com</a>
 
-+ <a href="https://www.drifters.io/">Various Projects With the CodeDrifters, a technology business</a>
++ <a href="https://www.drifters.io/">CodeDrifters</a> - Various projects with CodeDrifters which is a technology company that builds technology for a variety of different industries
 
 + A lot of work projects are not included because a separate GitHub account is used
 
@@ -65,7 +65,7 @@ refining my knowledge by working with other passionate individuals who have an i
 <img align="left" alt="GIT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<igm align="left" alt="Robocorp" width="30px" src="https://avatars.githubusercontent.com/u/54288445" />
+<img align="left" alt="Robocorp" width="30px" src="https://avatars.githubusercontent.com/u/54288445" />
 
 </br>
 </br>
